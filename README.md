@@ -1,1 +1,1 @@
-![Untitled design (2)](https://github.com/prakharsdev/YouTube_Ad_Revenue_Optimization/assets/26145700/b20d9708-201e-455a-9d7e-8ebcf34519dd)
+![Untitled design (3)](https://github.com/prakharsdev/YouTube_Ad_Revenue_Optimization/assets/26145700/e528be28-1317-4d94-89df-d546117dae09)
