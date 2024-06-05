@@ -1,0 +1,9 @@
+boto3
+requests
+pandas
+pyspark
+scikit-learn
+joblib
+apache-airflow
+dbt
+python-telegram-bot

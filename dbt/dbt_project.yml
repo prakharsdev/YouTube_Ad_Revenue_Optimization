@@ -1,0 +1,10 @@
+name: 'youtube_ad_revenue_optimization'
+version: '1.0'
+config-version: 2
+
+profile: 'default'
+
+models:
+  youtube_ad_revenue_optimization:
+    +schema: 'analytics'
+    +materialized: 'view'
